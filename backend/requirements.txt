@@ -1,0 +1,11 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1733215607532/work
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1733376776721/work
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1733236662144/work
+gunicorn @ file:///home/conda/feedstock_root/build_artifacts/gunicorn_1724955961448/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+psycopg2 @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1727892814430/work
+python-decouple @ file:///home/conda/feedstock_root/build_artifacts/python-decouple_1734972248338/work
+setuptools==75.6.0
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1734007102193/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
+wheel==0.45.1
